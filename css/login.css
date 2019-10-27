@@ -1,0 +1,247 @@
+.inner{
+	width: 962px;
+	margin: 0 auto;
+}
+header{
+	background: #333333;
+	padding: 18px 0;
+}
+.login-logo .logo-hw{
+	display: inline-block;
+	width:139px;
+	height:33px;
+	background: url("../img2/head-top.png");
+	margin-right: 20px;
+	vertical-align: middle;
+	padding: 0;
+}
+.login-logo em{
+	font-style: normal;
+	font-size: 20px;
+	color: #fff;
+	margin-right: 20px;
+   display: inline-block;
+    padding-top: 2px;
+}
+.login-logo a{
+  font-size: 18px;
+  color: #fff;
+  font-weight: 200;
+  display: inline-block;
+  padding-top: 2px;
+}
+.reg{
+	display:inline-block;
+	background: url("../img2/reg-img01.png");
+	vertical-align: middle;
+}
+.title{}
+.title .title-l{}
+.title .title-l a{
+	display: block;
+	float: left;
+	width: 147px;
+	height: 40px;
+	box-sizing: border-box;
+	padding:9px 0;
+	background:#cccccc;
+	color: #fff;
+	margin-right: 12px;
+}
+.title .title-l a.now{
+background: #b40707;
+}
+.title .title-l .titph{
+	width:15px;
+	height:23px;
+	background-position:0px -17px ;
+	margin-right: 18px;
+	margin-left: 25px;
+}
+.title .title-l .tit-let{
+    width: 26px;
+    height: 18px;
+    background-position: 2px 0px;
+	margin-right: 13px;
+	margin-left: 16px;
+}
+.title .title-r{
+	font-size: 12px;
+	color:#333333 ;
+	line-height:22px;
+}
+.title .title-r a{
+	color: #007dff;
+	font-size: 12px;
+	line-height: 22px;
+}
+.center{
+	width:100%;
+	background:#f2f2f2; 
+	padding: 30px 0 40px; 
+}
+.center .form{
+	background:#fff; 
+	padding: 40px 270px;
+}
+.center .form .input{
+   width: 445px;
+   height:42px;
+   border: 1px solid #d9d9d9;
+   border-radius: 21px;
+   position: relative;
+   background: #f2f2f2;
+}
+.center .form .input label{
+	width:90px;
+	height:42px;
+	text-align: justify;
+    text-align-last: justify;
+	line-height:42px;
+	padding:0 18px;
+	font-size: 14px;
+	color: #333;
+	border-right: 1px solid #d9d9d9;
+}
+.center .form .wrap-down{
+	margin-bottom: 30px;
+}
+.center .form .input input{
+	width:265px;
+	height: 42px;
+     padding:0 14px;
+     line-height: 42px;	
+      background: #f2f2f2;
+     
+}
+.center .form .input-add::-webkit-input-placeholder{
+	color: #333333;
+	font-size: 14px;
+}
+.center .form .last{
+	width:200px ;
+	height:40px ;
+	line-height:40px ;
+	font-size:14px ;
+	color:#FFF;
+	background:#b40707 ;
+	border-radius: 20px;
+	margin-left: 100px;
+	text-align: center;
+}
+.center .form  .ss{
+	color: #f63636;
+	font-size: 12px;
+	top: 42px;
+	left: 0px;
+display: none;
+}
+.center .form .wrap{
+	margin-bottom: 10px;
+}
+.up-list{
+  position: absolute;
+  width: 163px;
+  height: 200px;
+  border-radius: 10px;  
+  background: #fff;
+  z-index: 55;
+  top: 42px;
+  right: 50px;
+  box-shadow: 3px 3px #ddd;
+  padding: 0 5px;
+  overflow: hidden;
+  display: none;
+}
+.up-list #li-center{
+  font-size: 13px;
+  color: #999;
+  position: absolute; 
+}
+.up-list #li-center p{
+	  line-height: 31px;
+  border-bottom: 1px solid #ddd;
+  width: 153px;
+}
+.up-list .li-left{
+	position: absolute;
+	width: 7px;
+	height: 196px;
+	right: 0px;
+	top: 2px;
+	border-bottom: 0;
+	border-left: 1px solid #D3D3D3;
+}
+.up-list .li-left #but{
+	width: 6px;
+	height:150px;
+	background: #ddd;
+	position: absolute;
+	right: 0;
+	border-radius:3px ;
+}
+.up-ra{
+	position: absolute;
+	width: 0;
+	height:0;
+	border:5px solid transparent;
+	border-top-color:#007dff ;
+	top: 20px;
+	right: 30px;
+}
+.center .form .input .erro{
+	width: 150px;
+	font-size: 13px;
+	color:#5dec6a;
+	background: #aaafab;
+	padding: 12px 13px;
+	line-height: 20px;
+	border-radius: 3px;
+	right: -184px;
+	position: absolute;
+	top:-10px;
+	     display: none;
+	}
+
+.center .form .input .erro:before{
+	width: 0;
+	height: 0;
+	display: block;
+	content: "";
+	border:9px solid transparent;
+	border-right-color: #aaafab ;
+	/*border-right-color: #000000;*/
+	position: absolute;
+	left: -17px;
+     top:30px;
+
+	
+}
+
+
+
+
+footer{
+background:#f2f2f2; 
+width: 100%;	
+}
+.f-up,.f-down{
+	color: #999999;
+	font-size: 12px;
+	text-align: center;
+	line-height: 30px;
+}
+.f-up a{
+	font-size: 12px;
+	color: #999;
+	margin-right: 15px;
+}
+.f-up em{
+	font-size: 12px;
+	font-style: normal;
+	margin-right: 15px;
+}
+.f-up{
+	border-top:1px solid #d7d7d7 ;
+	padding-top:28px;
+}

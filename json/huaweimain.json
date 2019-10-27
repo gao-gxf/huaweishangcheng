@@ -1,0 +1,355 @@
+[
+{
+"title":"浏览手机频道",
+"cont":[{
+   "a1":"荣耀",
+   "a2":"HUAWEI P系列",
+   "a3":"荣耀畅玩系列",
+   "a4":"HUAWEI Mate系列",
+   "a5":"HUAWEI nova系列",
+   "a6":"HUAWEI 麦芒系列",
+   "a7":"华为 畅享系列",
+   "a8":"移动4G+ 专区" ,
+   "a9":"",
+   "a10":"",
+    "a11":"",
+   "a12":"",
+    "a13":"",
+   "a14":"", 
+    "a15":""
+
+}],
+"shopshow":[{
+"src":"img/142_142_1539222514790mp.png",
+"showtitle":"HUWEI Mate 20",
+"showprice":"￥3999"
+},
+{
+"src":"img/142_142_1535358175728mp.jpg",
+"showtitle":"荣耀10",
+"showprice":"￥2299"
+},
+{
+"src":"img/142_142_1539230426520mp.png",
+"showtitle":"HUWEI Mate20 Pro",
+"showprice":"￥5399"
+},
+{
+"src":"img/142_142_1536628129335mp.jpg",
+"showtitle":"荣耀8X",
+"showprice":"￥1399"
+},
+{
+"src":"img/142_142_1536628129335mp.jpg",
+"showtitle":"荣耀8X",
+"showprice":"￥1399"
+},
+{
+"src":"img/142_142_1539230426520mp.png",
+"showtitle":"HUWEI Mate20 Pro",
+"showprice":"￥5399"
+},
+{
+"src":"img/142_142_1539230426520mp.png",
+"showtitle":"HUWEI Mate20 Pro",
+"showprice":"￥5399"
+}
+]
+},
+{
+"title":"浏览笔记本&平板频道",
+"cont":[{
+   "a1":"平板电脑",
+   "a2":"笔记本电脑",
+   "a3":"笔记本配件",
+   "a4":"",
+   "a5":"",
+   "a6":"",
+   "a7":"",
+   "a8":"",
+   "a9":"",
+   "a10":"",
+   "a11":"",
+   "a12":"",
+   "a13":"",
+   "a14":"",
+   "a15":""
+}],
+"shopshow":[{
+"src":"img/428_428_1539915278180mp.png",
+"showtitle":"HUWEI MateBook XPro",
+"showprice":"￥7988"
+},
+{
+"src":"img/428_428_1538989448083mp.png",
+"showtitle":"荣耀MagicBook",
+"showprice":"￥5699"
+},
+{
+"src":"img/428_428_1539243364035mp.png",
+"showtitle":"荣耀平板5",
+"showprice":"￥1399"
+},
+{
+"src":"img/428_428_1539854934680mp.png",
+"showtitle":"华为平板M5青春版",
+"showprice":"￥1899"
+},
+{
+"src":"img/428_428_1538989448083mp.png",
+"showtitle":"荣耀MagicBook",
+"showprice":"￥5699"
+},
+{
+"src":"img/428_428_1539243364035mp.png",
+"showtitle":"荣耀平板5",
+"showprice":"￥1399"
+}
+,{
+"src":"img/428_428_1539915278180mp.png",
+"showtitle":"HUWEI MateBook XPro",
+"showprice":"￥7988"
+}]
+},
+{
+"title":"浏览智能穿戴频道",
+"cont":[{
+   "a1":"手环",
+   "a2":"手表",
+   "a3":"VR",
+   "a4":" ",
+   "a5":" ",
+   "a6":" ",
+   "a7":" ",
+   "a8":" ",
+   "a9":" ",
+   "a10":" ",
+   "a11":" ",
+   "a12":" ",
+   "a13":" ",
+    "a14":" ",
+   "a15":" "
+}],
+"shopshow":[
+{
+"src":"img/428_428_1540544249192mp.png",
+"showtitle":"荣耀手表",
+"showprice":"￥899"
+},
+{
+"src":"img1/428_428_1539763327956mp.png",
+"showtitle":"华为儿童手表3 Pro",
+"showprice":"￥988"
+},
+{
+"src":"img/428_428_1539569436793mp.png",
+"showtitle":"荣耀手环4 标准版",
+"showprice":"￥199"
+},
+{
+"src":"img/428_428_1539569581152mp.png",
+"showtitle":"华为手环B5",
+"showprice":"￥999"
+},
+{
+"src":"img/428_428_1540544249192mp.png",
+"showtitle":"荣耀手表",
+"showprice":"￥899"
+},
+{
+"src":"img/428_428_1539569581152mp.png",
+"showtitle":"华为手环B5",
+"showprice":"￥999"
+},
+{
+"src":"img/428_428_1539569581152mp.png",
+"showtitle":"华为手环B5",
+"showprice":"￥999"
+}]
+},
+{
+"title":"浏览智能家居频道",
+"cont":[{
+   "a1":"路由器",
+   "a2":"电视盒子",
+   "a3":"照明",
+   "a4":"清洁",
+   "a5":"子母/分布式路由",
+   "a6":"电力猫/wifi放大器",
+   "a7":"随行wifi",
+   "a8":"节能",
+   "a9":"环境",
+   "a10":"安防",
+   "a11":"健康",
+   "a12":"厨电",
+    "a13":"影音",
+   "a14":"卫浴",
+   "a15":"其他"
+}],
+"shopshow":[{
+"src":"img/142_142_1539912533064mp.png",
+"showtitle":"荣耀路由X2",
+"showprice":"￥149"
+},
+{
+"src":"img/142_142_1541666262523mp.png",
+"showtitle":"华为AI音箱",
+"showprice":"￥399"
+},
+{
+"src":"img/142_142_1534918214626mp.jpg",
+"showtitle":"荣耀路由2S",
+"showprice":"￥199"
+},
+{
+"src":"img/142_142_1521184530843mp.jpg",
+"showtitle":"华为路由Q2",
+"showprice":"￥799"
+},
+{
+"src":"img/142_142_1539912533064mp.png",
+"showtitle":"荣耀路由X2",
+"showprice":"￥149"
+},
+{
+"src":"img/142_142_1541666262523mp.png",
+"showtitle":"华为AI音箱",
+"showprice":"￥399"
+},
+{
+"src":"img/142_142_1539912533064mp.png",
+"showtitle":"荣耀路由X2",
+"showprice":"￥149"
+}]
+},
+{
+"title":"浏览通用配件频道",
+"cont":[{
+   "a1":"移动电源",
+   "a2":"耳机",
+   "a3":"音箱",
+   "a4":"自拍杆/支架",
+   "a5":"充电器/线材",
+   "a6":"U盘/存储卡",
+   "a7":"摄像机/镜头",
+   "a8":"智能硬件",
+   "a9":"生活周边",
+   "a10":"取卡针" , 
+   "a11":" ",
+   "a12":" ",
+   "a13":" ",
+   "a14":" ",
+   "a15":" " 
+}],
+"shopshow":[{
+"src":"img/142_142_1484107261446mp.jpg",
+"showtitle":"华为1000mAh移动电源充电宝",
+"showprice":"￥149"
+},
+{
+"src":"img/142_142_1540862995742mp.png",
+"showtitle":"荣耀FlysPods无线耳机",
+"showprice":"￥799"
+},
+{
+"src":"img/142_142_1512699241768mp.jpg",
+"showtitle":"华为智能体脂秤",
+"showprice":"￥169"
+},
+{
+"src":"img/142_142_1489548822739mp.jpg",
+"showtitle":"荣耀xSport运动蓝牙耳机",
+"showprice":"￥229"
+},
+{
+"src":"img/142_142_1540862995742mp.png",
+"showtitle":"荣耀FlysPods无线耳机",
+"showprice":"￥799"
+},
+{
+"src":"img/142_142_1512699241768mp.jpg",
+"showtitle":"华为智能体脂秤",
+"showprice":"￥169"
+},
+{
+"src":"img/142_142_1489548822739mp.jpg",
+"showtitle":"荣耀xSport运动蓝牙耳机",
+"showprice":"￥229"
+}
+,
+{
+"src":"img/142_142_1540862995742mp.png",
+"showtitle":"荣耀FlysPods无线耳机",
+"showprice":"￥799"
+},
+{
+"src":"img/142_142_1512699241768mp.jpg",
+"showtitle":"华为智能体脂秤",
+"showprice":"￥169"
+},
+{
+"src":"img/142_142_1489548822739mp.jpg",
+"showtitle":"荣耀xSport运动蓝牙耳机",
+"showprice":"￥229"
+}]
+},
+{
+"title":"浏览专属配件频道",
+"cont":[{
+   "a1":"保护壳",
+   "a2":"保护套",
+   "a3":"贴膜",
+   "a4":"盒子专属配件",
+   "a5":"表带",
+   "a6":"触控笔",
+   "a7":" ",
+   "a8":" ", 
+    "a9":" ",
+   "a10":" ", 
+    "a11":" ",
+   "a12":" ", 
+    "a13":" ",
+   "a14":" ",  
+   "a15":" "
+   
+   
+}],
+"shopshow":[{
+"src":"img/142_142_1540287723138mp.png",
+"showtitle":"HUWEI Mate20 智能视窗保护套",
+"showprice":"￥299"
+},
+{
+"src":"img/142_142_1538120595471mp.jpg",
+"showtitle":"荣耀8X Max带指环口PC保护壳",
+"showprice":"￥49"
+},
+{
+"src":"img/142_142_1535945798308mp.jpg",
+"showtitle":"HUWEI P20 Pro 星钻保护壳",
+"showprice":"￥199"
+},
+{
+"src":"img/142_142_1512723338638mp.jpg",
+"showtitle":"荣耀V10 PU磁吸保护套",
+"showprice":"￥119"
+}
+,
+{
+"src":"img/142_142_1538120595471mp.jpg",
+"showtitle":"荣耀8X Max带指环口PC保护壳",
+"showprice":"￥49"
+},
+{
+"src":"img/142_142_1535945798308mp.jpg",
+"showtitle":"HUWEI P20 Pro 星钻保护壳",
+"showprice":"￥199"
+},
+{
+"src":"img/142_142_1512723338638mp.jpg",
+"showtitle":"荣耀V10 PU磁吸保护套",
+"showprice":"￥119"
+}]
+}
+]
+
